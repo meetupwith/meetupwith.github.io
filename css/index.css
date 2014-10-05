@@ -36,9 +36,11 @@ body{
 }
 
 #about{
-	background-color: #7BB871;
+	/*background-color: #7BB871;*/
 	padding:.3em .5em .3em .5em;
-	
+	border-bottom-style:solid;
+	border-bottom-color:#7BB871;
+	border-bottom-width:.1em;
 }
 
 .about-description{
