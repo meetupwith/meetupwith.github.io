@@ -1,7 +1,63 @@
 body{
-	background-color:black;
+	background-color:#fff;
 }
 
 .banner{
+	/*background-color:#347b28;*/
+	background:url('./../img/bannner.png');
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+	font-size:7em;
+	padding:0 0 1.5em 0;
+	color:#fff;
+}
+
+#sjmeet{
+	background-color: #347b28;
+	padding:0 .3em 0 .3em;
+	opacity: .75;
+}
+
+.about{
+	background-color: #fff;
+	color:black;
+
+}
+
+#about1{
+	font-size:4em;
+	color:gray;
+}
+
+#about2{
+	font-size:2em;
+}
+
+#about{
+	background-color: #7BB871;
+	padding:.3em .5em .3em .5em;
 	
+}
+
+.about-description{
+	padding:5em 0 3em 0;
+}
+
+.how-to{
+	background-color:#F6D6BE;
+	
+	padding:2em 0 0 0;
+}
+
+.tiny{
+	max-width:30px;
+	max-height:30px;
+	margin:0 10px 10px 0;
+}
+
+#footer{
+	background-color:#000;
+	color:#fff;
 }
